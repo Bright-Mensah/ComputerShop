@@ -5,7 +5,7 @@ Screenshot are as follows 👇
 <!DOCTYPE html>
 
 <h1>Desktop</h1>
-<img src="sreenshots/Desktop.png" alt="desktop image">
+ <img src="screenshots/Desktop.png" alt="desktop image">
 
 
 
