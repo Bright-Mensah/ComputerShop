@@ -8,7 +8,7 @@ Screenshot are as follows 👇
  <img src="screenshots/Desktop.png" alt="desktop image">
  
  <h1>Mobile</h1>
- <img src="screenshots/mobile" alt="mobile image">
+ <img src="screenshots/mobile.jpg" alt="mobile image">
  
 
 
